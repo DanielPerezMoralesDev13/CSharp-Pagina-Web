@@ -1,0 +1,32 @@
+# EditorConfig is awesome: https://EditorConfig.org
+
+# top-most EditorConfig file
+root = true
+
+[*]
+indent_style = space
+indent_size = 4
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+
+# Estos son parámetros de configuración utilizados por un fichero de configuración comúnmente llamado ".editorconfig". Este fichero se utiliza para mantener la consistencia en el estilo de codificación en un proyecto, independientemente del editor o IDE que se esté utilizando.
+
+# Aquí está la explicación de cada una de las configuraciones:
+
+# - root = true: Indica que este fichero es el fichero de configuración raíz y se aplica a todo el proyecto.
+  
+# - [*]: Indica que las configuraciones que siguen son para todos los ficheros en el proyecto.
+
+# - indent_style = space: Establece el estilo de sangrado utilizando espacios en lugar de tabulaciones.
+
+# - indent_size = 4: Define el número de espacios que se deben usar para un nivel de indentación.
+
+# - end_of_line = lf: Establece el tipo de salto de línea a LF (line feed). En sistemas Unix y Linux, generalmente se utiliza LF como salto de línea, mientras que en sistemas Windows se usa CRLF (carriage return + line feed).
+
+# - charset = utf-8: Define la codificación de caracteres utilizada en el fichero como UTF-8. UTF-8 es una codificación de caracteres ampliamente utilizada y es compatible con una amplia gama de caracteres Unicode.
+
+# - trim_trailing_whitespace = false: Controla si se deben eliminar los espacios en blanco al final de cada línea. En este caso, se establece en falso, lo que significa que no se eliminarán los espacios en blanco al final de las líneas.
+
+# - insert_final_newline = false: Controla si se debe agregar una línea en blanco al final del fichero. Aquí se establece en falso, lo que significa que no se agregará una línea en blanco adicional al final del fichero.
