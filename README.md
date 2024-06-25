@@ -32,7 +32,7 @@ This project consists of a web page developed in C# using ASP.NET for the backen
 1. Clone this repository from GitHub:
 
    ```bash
-   git clone https://github.com/DanielPerezMoralesDev13/nombre-de-tu-repositorio.git
+   git clone https://github.com/DanielPerezMoralesDev13/CSharp-Pagina-Web
    ```
 
 2. Open the project in your favorite development environment that supports C# and ASP.NET.
