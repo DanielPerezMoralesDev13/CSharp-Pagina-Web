@@ -1,0 +1,11 @@
+.git
+MyBackendProject/bin
+MyBackendProject/obj
+MyBackendProject/Properties
+MyBackendProject/MyBackendProject.csproj
+MyBackendProject/MyBackendProject.http
+MyBackendProject/output
+MyBackendProject/*.json
+*.sln
+MyBackendProject/.env
+.vscode
