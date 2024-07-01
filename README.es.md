@@ -12,6 +12,10 @@ Este proyecto es una aplicación web desarrollada como parte de un curso de Prog
 - GitHub: [DanielPerezMoralesDev13](https://github.com/DanielPerezMoralesDev13)
 - Correo electrónico: `danielperezdev@proton.me`
 
+- **Andy Joe Sanchez Calero**
+- **Jeremy Joshua Perez Gonzales**
+- **Gabriela**
+
 ## Descripción
 
 Este proyecto consiste en una página web desarrollada en C# utilizando ASP.NET para el backend y tecnologías web estándar como JavaScript, HTML, y CSS para el frontend. El objetivo principal es aplicar los conceptos aprendidos en programación orientada a objetos para crear una aplicación funcional y dinámica.

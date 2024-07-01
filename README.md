@@ -12,6 +12,10 @@ This project is a web application developed as part of an Object-Oriented Progra
 - GitHub: [DanielPerezMoralesDev13](https://github.com/DanielPerezMoralesDev13)
 - Email: `danielperezdev@proton.me`
 
+- **Andy Joe Sanchez Calero**
+- **Jeremy Joshua Perez Gonzales**
+- **Gabriela**
+
 ## Description
 
 This project consists of a web page developed in C# using ASP.NET for the backend and standard web technologies like JavaScript, HTML, and CSS for the frontend. The main goal is to apply object-oriented programming concepts to create a functional and dynamic application.
